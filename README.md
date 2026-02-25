@@ -22,5 +22,5 @@
 
 ### 📊 Estatísticas
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felpss40&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felpss40&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
