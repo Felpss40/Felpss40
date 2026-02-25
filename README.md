@@ -15,7 +15,7 @@
 
 * **[SecureAuth API - Arquitetura SaaS](https://github.com/Felpss40/authentication-system.git)**
     *Autenticação e licenciamento de software com criptografia híbrida (RSA+AES).*
-* **[Razer Driver IOCTL Exploit (PoC)](https://github.com/Felpss40/Razer-Driver-IOCTL-Exploit.git)**
+* **[Razer Driver IOCTL Exploit](https://github.com/Felpss40/Razer-Driver-IOCTL-Exploit.git)**
   *Kernel-Level Input Injection via NTAPI.*
 
 <br>
